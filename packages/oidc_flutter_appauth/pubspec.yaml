@@ -10,10 +10,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_appauth: ^6.0.2
+  flutter_appauth: ^9.0.0-dev.1
   oidc_core: ^0.9.1
   oidc_platform_interface: ^0.6.0+1
-  
+
 
 dev_dependencies:
   flutter_test:
