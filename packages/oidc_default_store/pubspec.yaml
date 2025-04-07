@@ -11,10 +11,10 @@ dependencies:
   collection: ^1.17.2
   flutter:
     sdk: flutter
-  flutter_secure_storage: ^9.0.0
+  flutter_secure_storage: ^9.2.4
   logging: ^1.2.0
   oidc_core: ^0.9.1
-  shared_preferences: ^2.2.1
+  shared_preferences: ^2.5.3
   universal_html: ^2.2.3
 dev_dependencies:
   flutter_test:
